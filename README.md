@@ -81,3 +81,6 @@ https://github.com/HotBitmapGG/bilibili-android-client
 im通讯：
 https://github.com/HuTianQi/QQ 基于bmob的仿qq。
 https://github.com/jiangzehui/xmpp  聊天。
+
+开源项目集合：
+http://mobdevgroup.com/platform/android/project

@@ -1,25 +1,20 @@
 # Normal-jar
 《《经常使用的第三方库》》
 日志工具： logger（简单打印）：https://github.com/orhanobut/logger。
-
           timber（能输出在网络，本地文件等）https://github.com/JakeWharton/timber
           
 json解析： fastjson：  https://github.com/alibaba/fastjson
 
 网络请求： retrofit     https://github.com/square/retrofit
-
           okhttp（大型网络)：https://github.com/square/okhttp
-          
           volley（小型，请求频繁）：https://github.com/google/volley
                           
           
 数据库：   greenDao（轻量）：   https://github.com/greenrobot/greenDAO
-
           Realm（跨平台，简单，可视化工具）： https://github.com/realm/realm-java
           
 图片下载：  glide： https://github.com/bumptech/glide
-
-          fresco（体积大，专业图片app): https://github.com/facebook/fresco
+           fresco（体积大，专业图片app): https://github.com/facebook/fresco
 
 调试工具：  stetho:   https://github.com/facebook/stetho 
 
